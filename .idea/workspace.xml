@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/string-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/string-slicing-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/string-slicing-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/data-types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/compare-string-int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/string-slicing-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/string-slicing-04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-elements-of-programs/input-output-int.py" beforeDir="false" afterPath="$PROJECT_DIR$/core-elements-of-programs/input-output-int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-elements-of-programs/input-output-str.py" beforeDir="false" afterPath="$PROJECT_DIR$/core-elements-of-programs/input-output-str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-elements-of-programs/input-output.py" beforeDir="false" afterPath="$PROJECT_DIR$/core-elements-of-programs/input-output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-elements-of-programs/string-slicing-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/core-elements-of-programs/string-slicing-02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +35,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/core-elements-of-programs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core-elements-of-programs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.string-slicing-01">
-    <configuration name="input-output-int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.data-types">
+    <configuration name="compare-string-int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/input-output-int.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/compare-string-int.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input-output-str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/input-output-str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/conditions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input-output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data-types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/input-output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/data-types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string-slicing-03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/string-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/string-slicing-03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string-slicing-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string-slicing-04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/string-slicing-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/string-slicing-04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,10 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.string-slicing-01" />
-        <item itemvalue="Python.string-01" />
-        <item itemvalue="Python.input-output-int" />
-        <item itemvalue="Python.input-output-str" />
+        <item itemvalue="Python.data-types" />
+        <item itemvalue="Python.compare-string-int" />
+        <item itemvalue="Python.conditions" />
+        <item itemvalue="Python.string-slicing-04" />
+        <item itemvalue="Python.string-slicing-03" />
       </list>
     </recent_temporary>
   </component>
@@ -172,22 +177,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1583675988589">
+    <state width="1276" height="114" key="GridCell.Tab.0.bottom" timestamp="1583728359068">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583675988589" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1583675988589">
+    <state width="1276" height="114" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583728359068" />
+    <state width="1276" height="114" key="GridCell.Tab.0.center" timestamp="1583728359068">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583675988589" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1583675988588">
+    <state width="1276" height="114" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583728359068" />
+    <state width="1276" height="114" key="GridCell.Tab.0.left" timestamp="1583728359068">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583675988588" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1583675988589">
+    <state width="1276" height="114" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583728359068" />
+    <state width="1276" height="114" key="GridCell.Tab.0.right" timestamp="1583728359068">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583675988589" />
+    <state width="1276" height="114" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583728359068" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583675349253">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
