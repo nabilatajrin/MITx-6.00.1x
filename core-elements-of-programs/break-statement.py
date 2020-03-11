@@ -5,10 +5,7 @@ for i in range(5, 11, 2):
     if mysum == 5:
         break
     # mysum += i --same
-
 print(mysum)
-
-
 
 
 mysum2 = 0

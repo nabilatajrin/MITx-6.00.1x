@@ -1,3 +1,18 @@
 prob:
 -how to check if a variable is string or int
 -prob: 4 > 5 or 3 < 4 and 9 > 8 prints true, but logically i get it as false, what is the precedence?
+
+
+note:
+-to concatenate string and int, int should be type casted to string
+-int/int = float
+-occurence of a word nonstop:
+    s = "azcbobobbobegghakl"
+    countBob = 0
+    for i in range(len(s)):
+        if s[i:].startswith('bob'):
+            countBob += 1
+    print(("Number of times bob occurs is: ") + str(countBob))
+
+
+

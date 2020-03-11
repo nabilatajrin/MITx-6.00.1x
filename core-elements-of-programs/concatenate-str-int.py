@@ -1,5 +1,5 @@
 x = 1
-str_x = str(x)
+str_x = str(x) #typecast
 
 print("My fav numb is ", x, ". ", "x = ", x)
 
