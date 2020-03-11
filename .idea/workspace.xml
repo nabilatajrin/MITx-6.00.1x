@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programs/count-occurence-of-word-without-break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/occurence-of-a-word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/while-loop-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/while-loop-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/while-loop-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/while-loop-04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programs/count-specific-vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/count-specific-vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/count-occurence-of-word-without-break.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/count-occurence-of-word-without-break.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +46,8 @@
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.count-occurence-of-word-without-break">
-    <configuration name="count-occurence-of-word-without-break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.while-loop-01">
+    <configuration name="while-loop-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/count-occurence-of-word-without-break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/while-loop-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="count-specific-vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while-loop-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/count-specific-vowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/while-loop-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="count-total-vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while-loop-03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/count-total-vowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/while-loop-03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="countring-vowels-dictionary-way" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while-loop-04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/countring-vowels-dictionary-way.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/while-loop-04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="occurence-of-a-word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while-loop-05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/occurence-of-a-word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/while-loop-05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.count-occurence-of-word-without-break" />
-        <item itemvalue="Python.occurence-of-a-word" />
-        <item itemvalue="Python.count-specific-vowels" />
-        <item itemvalue="Python.count-total-vowels" />
-        <item itemvalue="Python.countring-vowels-dictionary-way" />
+        <item itemvalue="Python.while-loop-01" />
+        <item itemvalue="Python.while-loop-05" />
+        <item itemvalue="Python.while-loop-04" />
+        <item itemvalue="Python.while-loop-03" />
+        <item itemvalue="Python.while-loop-02" />
       </list>
     </recent_temporary>
   </component>
@@ -178,22 +180,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="562" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583733554083" />
-    <state width="1276" height="169" key="GridCell.Tab.0.bottom" timestamp="1583887738231">
+    <state width="1276" height="169" key="GridCell.Tab.0.bottom" timestamp="1583898377025">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583887738231" />
-    <state width="1276" height="169" key="GridCell.Tab.0.center" timestamp="1583887738230">
+    <state width="1276" height="169" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583898377025" />
+    <state width="1276" height="169" key="GridCell.Tab.0.center" timestamp="1583898377025">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583887738230" />
-    <state width="1276" height="169" key="GridCell.Tab.0.left" timestamp="1583887738230">
+    <state width="1276" height="169" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583898377025" />
+    <state width="1276" height="169" key="GridCell.Tab.0.left" timestamp="1583898377025">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583887738230" />
-    <state width="1276" height="169" key="GridCell.Tab.0.right" timestamp="1583887738231">
+    <state width="1276" height="169" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583898377025" />
+    <state width="1276" height="169" key="GridCell.Tab.0.right" timestamp="1583898377025">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583887738231" />
+    <state width="1276" height="169" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583898377025" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583675349253">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
