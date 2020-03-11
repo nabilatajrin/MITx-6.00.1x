@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programs/while-loop-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/while-loop-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/while-loop-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/for-loop-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/for-loop-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/for-loop-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/for-loop-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/for-loop-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/for-loop-06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/programs" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -40,12 +43,13 @@
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while-loop-sum">
-    <configuration name="while-loop-01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.for-loop-08">
+    <configuration name="for-loop-04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/while-loop-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/for-loop-04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,28 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while-loop-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/while-loop-01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="while-loop-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for-loop-05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/while-loop-02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/for-loop-05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,28 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while-loop-05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core-elements-of-programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core-elements-of-programs/while-loop-05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="while-loop-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for-loop-06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +103,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/while-loop-sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/for-loop-06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for-loop-07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/for-loop-07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for-loop-08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/for-loop-08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.while-loop-sum" />
-        <item itemvalue="Python.while-loop-05" />
-        <item itemvalue="Python.while-loop-02" />
-        <item itemvalue="Python.while-loop-01 (1)" />
-        <item itemvalue="Python.while-loop-01" />
+        <item itemvalue="Python.for-loop-08" />
+        <item itemvalue="Python.for-loop-07" />
+        <item itemvalue="Python.for-loop-06" />
+        <item itemvalue="Python.for-loop-05" />
+        <item itemvalue="Python.for-loop-04" />
       </list>
     </recent_temporary>
   </component>
@@ -178,22 +182,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="562" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583733554083" />
-    <state width="1276" height="169" key="GridCell.Tab.0.bottom" timestamp="1583901870829">
+    <state width="1276" height="244" key="GridCell.Tab.0.bottom" timestamp="1583904824377">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583901870829" />
-    <state width="1276" height="169" key="GridCell.Tab.0.center" timestamp="1583901870828">
+    <state width="1276" height="244" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583904824377" />
+    <state width="1276" height="244" key="GridCell.Tab.0.center" timestamp="1583904824376">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583901870828" />
-    <state width="1276" height="169" key="GridCell.Tab.0.left" timestamp="1583901870827">
+    <state width="1276" height="244" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583904824376" />
+    <state width="1276" height="244" key="GridCell.Tab.0.left" timestamp="1583904824376">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583901870827" />
-    <state width="1276" height="169" key="GridCell.Tab.0.right" timestamp="1583901870828">
+    <state width="1276" height="244" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583904824376" />
+    <state width="1276" height="244" key="GridCell.Tab.0.right" timestamp="1583904824377">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="169" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583901870828" />
+    <state width="1276" height="244" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583904824377" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583675349253">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
