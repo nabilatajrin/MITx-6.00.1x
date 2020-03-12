@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core-elements-of-programs/guess-and-check-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-set-week-01/check-prime-number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-elements-of-programs/break-statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/core-elements-of-programs/break-statement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-elements-of-programs/concatenate-str-int.py" beforeDir="false" afterPath="$PROJECT_DIR$/core-elements-of-programs/concatenate-str-int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-elements-of-programs/guess-and-check-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/core-elements-of-programs/guess-and-check-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note" beforeDir="false" afterPath="$PROJECT_DIR$/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-week-01/iteration-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-set-week-01/iteration-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-week-01/iteration-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-set-week-01/iteration-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-week-01/iteration-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-set-week-01/iteration-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-week-01/iteration-05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-week-01/vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-set-week-01/vowels-01.py" afterDir="false" />
-    </list>
+    <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
