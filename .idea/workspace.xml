@@ -40,7 +40,7 @@
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.count-occurence-of-word-without-break">
+  <component name="RunManager" selected="Python.exercise-01">
     <configuration name="count-occurence-of-word-without-break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +54,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-set-week-01/count-occurence-of-word-without-break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple-algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple-algorithms/exercise-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,34 +146,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iteration-05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-set-week-01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-set-week-01/iteration-05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise-01" />
         <item itemvalue="Python.count-occurence-of-word-without-break" />
         <item itemvalue="Python.iteration-03" />
         <item itemvalue="Python.iteration-02" />
         <item itemvalue="Python.iteration-01" />
-        <item itemvalue="Python.iteration-05" />
       </list>
     </recent_temporary>
   </component>
@@ -174,22 +174,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="562" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583733554083" />
-    <state width="1276" height="140" key="GridCell.Tab.0.bottom" timestamp="1583927399281">
+    <state width="1276" height="140" key="GridCell.Tab.0.bottom" timestamp="1584088066309">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="140" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583927399281" />
-    <state width="1276" height="140" key="GridCell.Tab.0.center" timestamp="1583927399278">
+    <state width="1276" height="140" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584088066309" />
+    <state width="1276" height="140" key="GridCell.Tab.0.center" timestamp="1584088066308">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="140" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583927399278" />
-    <state width="1276" height="140" key="GridCell.Tab.0.left" timestamp="1583927399277">
+    <state width="1276" height="140" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584088066308" />
+    <state width="1276" height="140" key="GridCell.Tab.0.left" timestamp="1584088066307">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="140" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583927399277" />
-    <state width="1276" height="140" key="GridCell.Tab.0.right" timestamp="1583927399279">
+    <state width="1276" height="140" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584088066307" />
+    <state width="1276" height="140" key="GridCell.Tab.0.right" timestamp="1584088066308">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="140" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583927399279" />
+    <state width="1276" height="140" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584088066308" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583675349253">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
