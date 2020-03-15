@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/reviewing-loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/reviewing-loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/reviewing-loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,50 +48,8 @@
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reviewing-loops">
-    <configuration name="count-occurence-of-word-without-break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-set-week-01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-set-week-01/count-occurence-of-word-without-break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple-algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple-algorithms/exercise-01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise-01.02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bisection-search-01">
+    <configuration name="bisection-search-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-01.02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise-01.03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise-02.01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +82,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-01.03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise-02.02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise-02.03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,10 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bisection-search-01" />
+        <item itemvalue="Python.exercise-02.03" />
+        <item itemvalue="Python.exercise-02.02" />
+        <item itemvalue="Python.exercise-02.01" />
         <item itemvalue="Python.reviewing-loops" />
-        <item itemvalue="Python.exercise-01.02" />
-        <item itemvalue="Python.exercise-01" />
-        <item itemvalue="Python.count-occurence-of-word-without-break" />
       </list>
     </recent_temporary>
   </component>
@@ -177,41 +182,102 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="562" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583733554083" />
-    <state width="1276" height="226" key="GridCell.Tab.0.bottom" timestamp="1584161086126">
+    <state width="1276" height="237" key="GridCell.Tab.0.bottom" timestamp="1584266498132">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="226" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584161086126" />
-    <state width="1276" height="226" key="GridCell.Tab.0.center" timestamp="1584161086126">
+    <state width="1276" height="237" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584266498132" />
+    <state width="1276" height="237" key="GridCell.Tab.0.center" timestamp="1584266498131">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="226" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584161086126" />
-    <state width="1276" height="226" key="GridCell.Tab.0.left" timestamp="1584161086125">
+    <state width="1276" height="237" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584266498131" />
+    <state width="1276" height="237" key="GridCell.Tab.0.left" timestamp="1584266498130">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="226" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584161086125" />
-    <state width="1276" height="226" key="GridCell.Tab.0.right" timestamp="1584161086126">
+    <state width="1276" height="237" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584266498130" />
+    <state width="1276" height="237" key="GridCell.Tab.0.right" timestamp="1584266498132">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="226" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584161086126" />
-    <state width="1276" height="219" key="GridCell.Tab.1.bottom" timestamp="1584161057858">
+    <state width="1276" height="237" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584266498132" />
+    <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1584202407880">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584161057858" />
-    <state width="1276" height="219" key="GridCell.Tab.1.center" timestamp="1584161057858">
+    <state width="1276" height="237" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584202407880" />
+    <state width="1276" height="237" key="GridCell.Tab.1.center" timestamp="1584202407879">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584161057858" />
-    <state width="1276" height="219" key="GridCell.Tab.1.left" timestamp="1584161057858">
+    <state width="1276" height="237" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584202407879" />
+    <state width="1276" height="237" key="GridCell.Tab.1.left" timestamp="1584202407879">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584161057858" />
-    <state width="1276" height="219" key="GridCell.Tab.1.right" timestamp="1584161057858">
+    <state width="1276" height="237" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584202407879" />
+    <state width="1276" height="237" key="GridCell.Tab.1.right" timestamp="1584202407879">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584161057858" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583675349253">
+    <state width="1276" height="237" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584202407879" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584264359642">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583675349253" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1584264359642" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
