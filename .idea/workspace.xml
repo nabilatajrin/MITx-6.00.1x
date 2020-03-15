@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-square-root.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-cube-root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-cube-root.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-cube-root.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,28 @@
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bisection-search-square-root">
+  <component name="RunManager" selected="Python.bisection-search-cube-root">
+    <configuration name="bisection-search-cube-root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-cube-root.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bisection-search-square-root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,34 +150,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reviewing-loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/reviewing-loops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bisection-search-cube-root" />
         <item itemvalue="Python.bisection-search-square-root" />
         <item itemvalue="Python.exercise-02.03" />
         <item itemvalue="Python.exercise-02.02" />
         <item itemvalue="Python.exercise-02.01" />
-        <item itemvalue="Python.reviewing-loops" />
       </list>
     </recent_temporary>
   </component>
@@ -179,22 +178,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="562" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583733554083" />
-    <state width="1276" height="237" key="GridCell.Tab.0.bottom" timestamp="1584266498132">
+    <state width="1276" height="183" key="GridCell.Tab.0.bottom" timestamp="1584269468052">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584266498132" />
-    <state width="1276" height="237" key="GridCell.Tab.0.center" timestamp="1584266498131">
+    <state width="1276" height="183" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584269468052" />
+    <state width="1276" height="183" key="GridCell.Tab.0.center" timestamp="1584269468051">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584266498131" />
-    <state width="1276" height="237" key="GridCell.Tab.0.left" timestamp="1584266498130">
+    <state width="1276" height="183" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584269468051" />
+    <state width="1276" height="183" key="GridCell.Tab.0.left" timestamp="1584269468050">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584266498130" />
-    <state width="1276" height="237" key="GridCell.Tab.0.right" timestamp="1584266498132">
+    <state width="1276" height="183" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584269468050" />
+    <state width="1276" height="183" key="GridCell.Tab.0.right" timestamp="1584269468052">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584266498132" />
+    <state width="1276" height="183" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584269468052" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1584202407880">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
