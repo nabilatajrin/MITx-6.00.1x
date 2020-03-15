@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-square-root.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/reviewing-loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/reviewing-loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-cube-root.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +31,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wk02-simple-algorithms" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/core-elements-of-programs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms" />
       <recent name="$PROJECT_DIR$/programs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core-elements-of-programs" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.bisection-search-01">
-    <configuration name="bisection-search-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bisection-search-square-root">
+    <configuration name="bisection-search-square-root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-square-root.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bisection-search-01" />
+        <item itemvalue="Python.bisection-search-square-root" />
         <item itemvalue="Python.exercise-02.03" />
         <item itemvalue="Python.exercise-02.02" />
         <item itemvalue="Python.exercise-02.01" />
