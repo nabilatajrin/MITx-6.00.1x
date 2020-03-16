@@ -1,38 +1,28 @@
-# find out x
-x = int(input('Please think of a number between 0 and 100!: '))
+print("Please think of a number between 0 and 100!")
 
-secret_number = 50
-print("Is your secret number" + str(secret_number) + "?")
+# At the start the highest the number could be is 100 and the lowest is 0.
+hi = 100
+lo = 0
+guessed = False
 
-# Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate
-# I guessed correctly.
-ans_1 = input('Enter h, l or c: ')
+# Loop until we guess it correctly
+while not guessed:
+    # Bisection search: guess the midpoint between our current high and low guesses
+    guess = (hi + lo)//2
+    print("Is your secret number " + str(guess)+ "?")
+    user_inp = input("Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. "
+                     "Enter 'c' to indicate I guessed correctly. ")
 
-if ans_1 == 'h':
-    secret_number = secret_number * 0.75
-    print('Is your secret number ' + str(secret_number) + '?')
+    if user_inp == 'c':
+        # We got it right!
+        guessed = True
+    elif user_inp == 'h':
+        # Guess was too high. So make the current guess the highest possible guess.
+        hi = guess
+    elif user_inp == 'l':
+        # Guess was too low. So make the current guess the lowest possible guess.
+        lo = guess
+    else:
+        print("Sorry, I did not understand your input.")
 
-elif ans_1 == 'l':
-    secret_number = secret_number * 1.25
-    print('Is your secret number' + str(secret_number) + '?')
-
-elif ans_1 == 'c':
-    print('Is your secret number' + str(secret_number) + '?')
-
-# loop
-
-# epsilon = 0.01
-# numGuesses = 0
-# l = 1.0
-# h = x
-# ans = (h + l)/2.0
-# while abs(ans**2 - x) >= epsilon:
-#     print('low = ' + str(l) + ' high = ' + str(h) + ' ans = ' + str(ans))
-#     numGuesses += 1
-#     if ans**2 < x:
-#         low = ans
-#     else:
-#         high = ans
-#     ans = (high + low)/2.0
-# print('numGuesses = ' + str(numGuesses))
-# print(str(ans) + ' is close to square root of ' + str(x))
+print('Game over. Your secret number was: ' + str(guess))
