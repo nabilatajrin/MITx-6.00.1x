@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/decimal-int-to-binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/fraction-to-binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise-guess-my-number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fraction-to-binary">
+  <component name="RunManager" selected="Python.exercise-guess-my-number">
     <configuration name="bisection-search-cube-root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise-02.03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise-guess-my-number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-guess-my-number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise-guess-my-number" />
         <item itemvalue="Python.fraction-to-binary" />
         <item itemvalue="Python.decimal-int-to-binary" />
         <item itemvalue="Python.bisection-search-cube-root" />
         <item itemvalue="Python.bisection-search-square-root" />
-        <item itemvalue="Python.exercise-02.03" />
       </list>
     </recent_temporary>
   </component>
@@ -179,38 +178,38 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="562" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583733554083" />
-    <state width="1276" height="183" key="GridCell.Tab.0.bottom" timestamp="1584341121136">
+    <state width="1276" height="183" key="GridCell.Tab.0.bottom" timestamp="1584350292315">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="183" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584341121136" />
-    <state width="1276" height="183" key="GridCell.Tab.0.center" timestamp="1584341121135">
+    <state width="1276" height="183" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584350292315" />
+    <state width="1276" height="183" key="GridCell.Tab.0.center" timestamp="1584350292314">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="183" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584341121135" />
-    <state width="1276" height="183" key="GridCell.Tab.0.left" timestamp="1584341121135">
+    <state width="1276" height="183" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584350292314" />
+    <state width="1276" height="183" key="GridCell.Tab.0.left" timestamp="1584350292313">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="183" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584341121135" />
-    <state width="1276" height="183" key="GridCell.Tab.0.right" timestamp="1584341121136">
+    <state width="1276" height="183" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584350292313" />
+    <state width="1276" height="183" key="GridCell.Tab.0.right" timestamp="1584350292314">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="183" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584341121136" />
-    <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1584202407880">
+    <state width="1276" height="183" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584350292314" />
+    <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1584342092420">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584202407880" />
-    <state width="1276" height="237" key="GridCell.Tab.1.center" timestamp="1584202407879">
+    <state width="1276" height="237" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584342092420" />
+    <state width="1276" height="237" key="GridCell.Tab.1.center" timestamp="1584342092419">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584202407879" />
-    <state width="1276" height="237" key="GridCell.Tab.1.left" timestamp="1584202407879">
+    <state width="1276" height="237" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584342092419" />
+    <state width="1276" height="237" key="GridCell.Tab.1.left" timestamp="1584342092419">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584202407879" />
-    <state width="1276" height="237" key="GridCell.Tab.1.right" timestamp="1584202407879">
+    <state width="1276" height="237" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584342092419" />
+    <state width="1276" height="237" key="GridCell.Tab.1.right" timestamp="1584342092419">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584202407879" />
+    <state width="1276" height="237" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584342092419" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584264359642">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -273,6 +272,16 @@
           <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-02.03.py</url>
           <line>13</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/fraction-to-binary.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise-guess-my-number.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
