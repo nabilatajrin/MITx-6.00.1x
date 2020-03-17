@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/newton-raphson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/files/files-example-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/files/files-example-02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,13 +29,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wk02-simple-algorithms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wk02-simple-algorithms/files" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/files" />
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms" />
       <recent name="$PROJECT_DIR$/programs" />
       <recent name="$PROJECT_DIR$" />
@@ -44,49 +48,7 @@
       <recent name="$PROJECT_DIR$/core-elements-of-programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.newton-raphson">
-    <configuration name="bisection-search-cube-root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/bisection-search-cube-root.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decimal-int-to-binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/decimal-int-to-binary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.files-open-02">
     <configuration name="exercise-guess-my-number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +62,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise-guess-my-number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="files-create-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/files/files-create-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="files-open-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/files/files-open-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.files-open-02" />
+        <item itemvalue="Python.files-create-01" />
         <item itemvalue="Python.newton-raphson" />
         <item itemvalue="Python.exercise-guess-my-number" />
         <item itemvalue="Python.fraction-to-binary" />
-        <item itemvalue="Python.decimal-int-to-binary" />
-        <item itemvalue="Python.bisection-search-cube-root" />
       </list>
     </recent_temporary>
   </component>
@@ -178,22 +182,26 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="562" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583733554083" />
-    <state width="1276" height="103" key="GridCell.Tab.0.bottom" timestamp="1584366335765">
+    <state x="451" y="252" width="520" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584451330247">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="103" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584366335765" />
-    <state width="1276" height="103" key="GridCell.Tab.0.center" timestamp="1584366335764">
+    <state x="451" y="252" width="520" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1584451330247" />
+    <state width="1276" height="152" key="GridCell.Tab.0.bottom" timestamp="1584451416880">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="103" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584366335764" />
-    <state width="1276" height="103" key="GridCell.Tab.0.left" timestamp="1584366335764">
+    <state width="1276" height="152" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584451416880" />
+    <state width="1276" height="152" key="GridCell.Tab.0.center" timestamp="1584451416878">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="103" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584366335764" />
-    <state width="1276" height="103" key="GridCell.Tab.0.right" timestamp="1584366335764">
+    <state width="1276" height="152" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584451416878" />
+    <state width="1276" height="152" key="GridCell.Tab.0.left" timestamp="1584451416877">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="103" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584366335764" />
+    <state width="1276" height="152" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584451416877" />
+    <state width="1276" height="152" key="GridCell.Tab.0.right" timestamp="1584451416879">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="152" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584451416879" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1584342092420">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
