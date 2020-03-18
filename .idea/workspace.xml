@@ -2,57 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/recursion-on-non-numerics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/recursion/fibonacci/fibonacci-female-rabit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/break-statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/break-statement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/compare-string-int.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/compare-string-int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/concatenate-str-int.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/concatenate-str-int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/guess-and-check/guess-and-check-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/guess-and-check/guess-and-check-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/guess-and-check/guess-and-check-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/guess-and-check/guess-and-check-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/input-output/input-output-int.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/input-output/input-output-int.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/input-output/input-output-str.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/input-output/input-output-str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/input-output/input-output.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/input-output/input-output.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/loop/control-flow-loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/loop/control-flow-loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/loop/for-loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/loop/for-loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/loop/while-loop-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/loop/while-loop-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/loop/while-loop-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/loop/while-loop-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/loop/while-loop-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/loop/while-loop-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/loop/while-loop-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/loop/while-loop-04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/loop/while-loop-05.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/loop/while-loop-05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing/string-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/string-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing/string-slicing-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/string-slicing-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing/string-slicing-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/string-slicing-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing/string-slicing-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/string-slicing-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing/string-slicing-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/string-slicing-04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/check-prime-number.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/check-prime-number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/count-occurence-of-word-without-break.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/count-occurence-of-word-without-break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/count-specific-vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/count-specific-vowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/count-total-vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/count-total-vowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/counting-vowels-string-way.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/counting-vowels-string-way.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/countring-vowels-dictionary-way.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/countring-vowels-dictionary-way.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-05.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-06.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-07.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-08.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-09.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/for-loop-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/for-loop-11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/iteration-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/iteration-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/iteration-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/iteration-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/iteration-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/iteration-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/iteration-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/iteration-04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/iteration-06.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/iteration-06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/iteration-07.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/iteration-07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/occurence-of-a-word.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/occurence-of-a-word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/vowels-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/vowels-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/while-loop-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/while-loop-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/while-loop-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/while-loop-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk01-problem-set/while-loop-sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk01-basics/wk01-problem-set/while-loop-sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/decimal-int-to-binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/convert-to-binary/decimal-int-to-binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/fraction-to-binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/convert-to-binary/fraction-to-binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/recursion-on-non-numerics.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/recursion/recursion-on-non-numerics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +42,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/recursion" />
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/convert-to-binary" />
       <recent name="$PROJECT_DIR$/wk01-basics" />
       <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs" />
       <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing" />
-      <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs/loop" />
-      <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs/input-output" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms/exercise/FILE" />
@@ -102,8 +56,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.recursion-on-non-numerics">
-    <configuration name="files-open-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fibonacci-female-rabit">
+    <configuration name="fibonacci-female-rabit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/fibonacci" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/files/files-open-02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/fibonacci/fibonacci-female-rabit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/recursion-on-non-numerics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/recursion/recursion-on-non-numerics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fibonacci-female-rabit" />
         <item itemvalue="Python.recursion-on-non-numerics" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.inventory-02" />
         <item itemvalue="Python.inventory" />
-        <item itemvalue="Python.files-open-02" />
       </list>
     </recent_temporary>
   </component>
@@ -243,22 +197,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="451" y="252" width="520" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1584451330247" />
-    <state width="1276" height="152" key="GridCell.Tab.0.bottom" timestamp="1584540465672">
+    <state width="1276" height="152" key="GridCell.Tab.0.bottom" timestamp="1584551966677">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="152" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584540465672" />
-    <state width="1276" height="152" key="GridCell.Tab.0.center" timestamp="1584540465672">
+    <state width="1276" height="152" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584551966677" />
+    <state width="1276" height="152" key="GridCell.Tab.0.center" timestamp="1584551966676">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="152" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584540465672" />
-    <state width="1276" height="152" key="GridCell.Tab.0.left" timestamp="1584540465672">
+    <state width="1276" height="152" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584551966676" />
+    <state width="1276" height="152" key="GridCell.Tab.0.left" timestamp="1584551966674">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="152" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584540465672" />
-    <state width="1276" height="152" key="GridCell.Tab.0.right" timestamp="1584540465672">
+    <state width="1276" height="152" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584551966674" />
+    <state width="1276" height="152" key="GridCell.Tab.0.right" timestamp="1584551966676">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="152" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584540465672" />
+    <state width="1276" height="152" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584551966676" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1584342092420">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -339,7 +293,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/fraction-to-binary.py</url>
+          <url>file://$PROJECT_DIR$/wk02-simple-algorithms/convert-to-binary/fraction-to-binary.py</url>
           <line>3</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
