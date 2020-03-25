@@ -8,4 +8,4 @@ def gcdIter(a, b):
     return testValue
 
 
-print(gcdIter(6, 12))
+print(gcdIter(5, 12))
