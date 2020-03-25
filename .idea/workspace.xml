@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion/gcd-recur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/how-many.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/apply-to-each/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/apply-to-each/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/apply-to-each/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/exercise-04**.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/exercise-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/problem-01-odd-tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/exercise/iteration/gcd-iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise/iteration/gcd-iter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/exercise/bisection-search/is-in.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise/bisection-search/is-in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion/gcd-recur.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion/gcd-recur.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +63,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gcd-recur">
-    <configuration name="function-odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.biggest">
+    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/function/function-odd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gcd-iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/iteration" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/apply-to-each" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/iteration/gcd-iter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/apply-to-each/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gcd-recur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="biggest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion/gcd-recur.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/biggest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="power-iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise-05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/iteration" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/iteration/power-iter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/exercise/exercise-05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="power-recur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="how-many" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion/power-recur.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/how-many.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gcd-recur" />
-        <item itemvalue="Python.gcd-iter" />
-        <item itemvalue="Python.power-recur" />
-        <item itemvalue="Python.power-iter" />
-        <item itemvalue="Python.function-odd" />
+        <item itemvalue="Python.biggest" />
+        <item itemvalue="Python.how-many" />
+        <item itemvalue="Python.01 (1)" />
+        <item itemvalue="Python.exercise-05" />
+        <item itemvalue="Python.03" />
       </list>
     </recent_temporary>
   </component>
@@ -199,22 +208,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584938974721" />
-    <state width="1276" height="181" key="GridCell.Tab.0.bottom" timestamp="1585104938984">
+    <state width="1276" height="154" key="GridCell.Tab.0.bottom" timestamp="1585143445999">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="181" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585104938984" />
-    <state width="1276" height="181" key="GridCell.Tab.0.center" timestamp="1585104938983">
+    <state width="1276" height="154" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585143445999" />
+    <state width="1276" height="154" key="GridCell.Tab.0.center" timestamp="1585143445998">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="181" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585104938983" />
-    <state width="1276" height="181" key="GridCell.Tab.0.left" timestamp="1585104938982">
+    <state width="1276" height="154" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585143445998" />
+    <state width="1276" height="154" key="GridCell.Tab.0.left" timestamp="1585143445998">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="181" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585104938982" />
-    <state width="1276" height="181" key="GridCell.Tab.0.right" timestamp="1585104938984">
+    <state width="1276" height="154" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585143445998" />
+    <state width="1276" height="154" key="GridCell.Tab.0.right" timestamp="1585143445999">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="181" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585104938984" />
+    <state width="1276" height="154" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585143445999" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1585039214113">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
