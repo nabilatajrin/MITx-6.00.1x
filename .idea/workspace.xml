@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/function-to-analyze-songs-lyrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/keys-and-values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/fibonacci-recursive-code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/fibonacci-with-a-dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/global-variables-tracking-efficiency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,49 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leveraging-dictionary-properties">
+  <component name="RunManager" selected="Python.global-variables-tracking-efficiency">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacci-with-a-dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code/fibonacci-with-a-dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="function-to-analyze-songs-lyrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="keys-and-values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="global-variables-tracking-efficiency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/keys-and-values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/global-variables-tracking-efficiency.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,55 +162,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python-dictionary-operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/python-dictionary-operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="student-info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/student-info.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.global-variables-tracking-efficiency" />
+        <item itemvalue="Python.fibonacci-with-a-dictionary" />
+        <item itemvalue="Python.01" />
         <item itemvalue="Python.leveraging-dictionary-properties" />
         <item itemvalue="Python.function-to-analyze-songs-lyrics" />
-        <item itemvalue="Python.keys-and-values" />
-        <item itemvalue="Python.python-dictionary-operations" />
-        <item itemvalue="Python.student-info" />
       </list>
     </recent_temporary>
   </component>
@@ -200,22 +201,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585146805679" />
-    <state width="1276" height="218" key="GridCell.Tab.0.bottom" timestamp="1585235638969">
+    <state width="1276" height="143" key="GridCell.Tab.0.bottom" timestamp="1585246076426">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="218" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585235638969" />
-    <state width="1276" height="218" key="GridCell.Tab.0.center" timestamp="1585235638967">
+    <state width="1276" height="143" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585246076426" />
+    <state width="1276" height="143" key="GridCell.Tab.0.center" timestamp="1585246076424">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="218" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585235638967" />
-    <state width="1276" height="218" key="GridCell.Tab.0.left" timestamp="1585235638966">
+    <state width="1276" height="143" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585246076424" />
+    <state width="1276" height="143" key="GridCell.Tab.0.left" timestamp="1585246076423">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="218" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585235638966" />
-    <state width="1276" height="218" key="GridCell.Tab.0.right" timestamp="1585235638968">
+    <state width="1276" height="143" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585246076423" />
+    <state width="1276" height="143" key="GridCell.Tab.0.right" timestamp="1585246076425">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="218" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585235638968" />
+    <state width="1276" height="143" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585246076425" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1585039214113">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
