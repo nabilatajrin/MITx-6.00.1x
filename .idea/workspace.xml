@@ -4,6 +4,7 @@
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/function-to-analyze-songs-lyrics.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/keys-and-values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
