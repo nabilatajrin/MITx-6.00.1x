@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/iterating-over-a-list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/mutate-list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/operation-on-list-add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/convert-list-to-string-and-back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/operation-on-list-remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/other-list-operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +56,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mutate-list">
-    <configuration name="changing-elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aliases">
+    <configuration name="aliases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/changing-elements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/aliases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iterating-over-a-list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="convert-list-to-string-and-back" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/iterating-over-a-list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/convert-list-to-string-and-back.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,28 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="manipulating-tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/tuples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/tuples/manipulating-tuples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mutate-list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operation-on-list-remove" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/mutate-list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/operation-on-list-remove.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operation-on-list-add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="other-list-operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +132,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/operation-on-list-add.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/other-list-operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mutate-list" />
-        <item itemvalue="Python.operation-on-list-add" />
-        <item itemvalue="Python.iterating-over-a-list" />
-        <item itemvalue="Python.changing-elements" />
-        <item itemvalue="Python.manipulating-tuples" />
+        <item itemvalue="Python.aliases" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.other-list-operations" />
+        <item itemvalue="Python.convert-list-to-string-and-back" />
+        <item itemvalue="Python.operation-on-list-remove" />
       </list>
     </recent_temporary>
   </component>
@@ -200,22 +201,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585146805679" />
-    <state width="1276" height="154" key="GridCell.Tab.0.bottom" timestamp="1585228473581">
+    <state width="1276" height="154" key="GridCell.Tab.0.bottom" timestamp="1585229350557">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="154" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585228473581" />
-    <state width="1276" height="154" key="GridCell.Tab.0.center" timestamp="1585228473580">
+    <state width="1276" height="154" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585229350557" />
+    <state width="1276" height="154" key="GridCell.Tab.0.center" timestamp="1585229350557">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="154" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585228473580" />
-    <state width="1276" height="154" key="GridCell.Tab.0.left" timestamp="1585228473580">
+    <state width="1276" height="154" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585229350557" />
+    <state width="1276" height="154" key="GridCell.Tab.0.left" timestamp="1585229350556">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="154" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585228473580" />
-    <state width="1276" height="154" key="GridCell.Tab.0.right" timestamp="1585228473580">
+    <state width="1276" height="154" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585229350556" />
+    <state width="1276" height="154" key="GridCell.Tab.0.right" timestamp="1585229350557">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="154" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585228473580" />
+    <state width="1276" height="154" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585229350557" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1585039214113">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
