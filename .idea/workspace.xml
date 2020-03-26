@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/function-as-object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/lists-of-functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/python-dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/student-info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/function-to-analyze-songs-lyrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/keys-and-values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/exercise/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/exercise/biggest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/exercise/how-many.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/exercise/how-many.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/function-as-object.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +54,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python-dictionary-operations">
-    <configuration name="function-as-object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.leveraging-dictionary-properties">
+    <configuration name="function-to-analyze-songs-lyrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/functions-as-objects-and-dictionaries/function-as-object.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/function-to-analyze-songs-lyrics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list-of-list-of-list-of" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="keys-and-values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +84,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/list-of-list-of-list-of.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/keys-and-values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leveraging-dictionary-properties" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,27 +131,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/python-dictionary-operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sorting-a-list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/tuples-and-lists/lists/sorting-a-list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leveraging-dictionary-properties" />
+        <item itemvalue="Python.function-to-analyze-songs-lyrics" />
+        <item itemvalue="Python.keys-and-values" />
         <item itemvalue="Python.python-dictionary-operations" />
         <item itemvalue="Python.student-info" />
-        <item itemvalue="Python.function-as-object" />
-        <item itemvalue="Python.list-of-list-of-list-of" />
-        <item itemvalue="Python.sorting-a-list" />
       </list>
     </recent_temporary>
   </component>
@@ -205,22 +199,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585146805679" />
-    <state width="1276" height="164" key="GridCell.Tab.0.bottom" timestamp="1585234898876">
+    <state width="1276" height="218" key="GridCell.Tab.0.bottom" timestamp="1585235638969">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="164" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585234898876" />
-    <state width="1276" height="164" key="GridCell.Tab.0.center" timestamp="1585234898876">
+    <state width="1276" height="218" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585235638969" />
+    <state width="1276" height="218" key="GridCell.Tab.0.center" timestamp="1585235638967">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="164" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585234898876" />
-    <state width="1276" height="164" key="GridCell.Tab.0.left" timestamp="1585234898875">
+    <state width="1276" height="218" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585235638967" />
+    <state width="1276" height="218" key="GridCell.Tab.0.left" timestamp="1585235638966">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="164" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585234898875" />
-    <state width="1276" height="164" key="GridCell.Tab.0.right" timestamp="1585234898876">
+    <state width="1276" height="218" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585235638966" />
+    <state width="1276" height="218" key="GridCell.Tab.0.right" timestamp="1585235638968">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="164" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585234898876" />
+    <state width="1276" height="218" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585235638968" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1585039214113">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
