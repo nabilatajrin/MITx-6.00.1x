@@ -15,4 +15,15 @@ note:
     print(("Number of times bob occurs is: ") + str(countBob))
 
 
+-two new kinds of data structures,
+    things called "tuples," and things called "lists."
+    Let's start with the tuple.
+    A "tuple" is an ordered sequence of elements
+    which can include any different kind of element within them.
+
+-One of the issues about tuples is that they're immutable
+
+
+
+
 

@@ -12,4 +12,9 @@ def get_data(aTuple):
 
     return (min_nums, max_nums, unique_words)
 
-print()
+(small, large, words) = get_data(((1, 'nine'),
+                                 (3, 'yours'),
+                                 (5, 'ours'),
+                                 (7, 'nine')))
+
+print((small, large, words))
