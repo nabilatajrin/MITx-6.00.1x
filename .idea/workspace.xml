@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/fibonacci-recursive-code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/fibonacci-with-a-dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/global-variables-tracking-efficiency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +40,24 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ml-projects/linear-regression" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging" />
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/exercise/FILE" />
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/files" />
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms" />
+      <recent name="$PROJECT_DIR$/programs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms/recursion" />
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms/convert-to-binary" />
       <recent name="$PROJECT_DIR$/wk01-basics" />
       <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs" />
       <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/exercise/FILE" />
-      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/files" />
-      <recent name="$PROJECT_DIR$/wk02-simple-algorithms" />
-      <recent name="$PROJECT_DIR$/programs" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Python.global-variables-tracking-efficiency">
@@ -197,10 +201,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="451" y="252" width="520" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1584451330247" />
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585146805679">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585302509590">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585146805679" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585302509590" />
     <state width="1276" height="143" key="GridCell.Tab.0.bottom" timestamp="1585246076426">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
