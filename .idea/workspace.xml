@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-08.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk05-oop/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk05-oop/animalTagged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk05-oop/coordinate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk05-oop/exampleClasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk05-oop/fraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk05-oop/integer_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk05-oop/integer_set_nodoc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wk05-oop" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
