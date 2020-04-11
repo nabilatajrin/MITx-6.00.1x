@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging/debug-08.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +34,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -52,7 +60,7 @@
       <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.global-variables-tracking-efficiency">
+  <component name="RunManager" selected="Python.test">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,27 +103,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function-to-analyze-songs-lyrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.1x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/function-to-analyze-songs-lyrics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="global-variables-tracking-efficiency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leveraging-dictionary-properties" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string-slicing-03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +132,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/leveraging-dictionary-properties.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/string-slicing-03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.1x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.string-slicing-03" />
         <item itemvalue="Python.global-variables-tracking-efficiency" />
         <item itemvalue="Python.fibonacci-with-a-dictionary" />
         <item itemvalue="Python.01" />
-        <item itemvalue="Python.leveraging-dictionary-properties" />
-        <item itemvalue="Python.function-to-analyze-songs-lyrics" />
       </list>
     </recent_temporary>
   </component>
@@ -197,22 +205,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585302509590" />
-    <state width="1276" height="141" key="GridCell.Tab.0.bottom" timestamp="1585309595409">
+    <state width="1276" height="141" key="GridCell.Tab.0.bottom" timestamp="1586353756804">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585309595409" />
-    <state width="1276" height="141" key="GridCell.Tab.0.center" timestamp="1585309595408">
+    <state width="1276" height="141" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586353756804" />
+    <state width="1276" height="141" key="GridCell.Tab.0.center" timestamp="1586353756804">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585309595408" />
-    <state width="1276" height="141" key="GridCell.Tab.0.left" timestamp="1585309595408">
+    <state width="1276" height="141" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586353756804" />
+    <state width="1276" height="141" key="GridCell.Tab.0.left" timestamp="1586353756803">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585309595408" />
-    <state width="1276" height="141" key="GridCell.Tab.0.right" timestamp="1585309595408">
+    <state width="1276" height="141" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586353756803" />
+    <state width="1276" height="141" key="GridCell.Tab.0.right" timestamp="1586353756804">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585309595408" />
+    <state width="1276" height="141" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586353756804" />
     <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1585039214113">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
