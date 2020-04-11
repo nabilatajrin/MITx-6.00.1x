@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk05-oop/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk05-oop/animalTagged.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk05-oop/coordinate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk05-oop/exampleClasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk05-oop/fraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk05-oop/integer_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wk05-oop/integer_set_nodoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +31,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wk05-oop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wk04-good-programming-practices" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging" />
-      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/exercise/FILE" />
-      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/files" />
-      <recent name="$PROJECT_DIR$/wk02-simple-algorithms" />
-      <recent name="$PROJECT_DIR$/programs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms/recursion" />
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms/convert-to-binary" />
@@ -56,9 +43,16 @@
       <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs" />
       <recent name="$PROJECT_DIR$/wk01-core-elements-of-programs/string-slicing" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wk04-good-programming-practices" />
+      <recent name="$PROJECT_DIR$/wk05-oop" />
+      <recent name="$PROJECT_DIR$/wk04-good-programming-practices/testing-and-debugging" />
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/exercise/FILE" />
+      <recent name="$PROJECT_DIR$/wk02-simple-algorithms/files" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exampleClasses">
+    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk05-oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk05-oop/animal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci-with-a-dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exampleClasses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk05-oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci-recursive-code/fibonacci-with-a-dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk05-oop/exampleClasses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exampleClasses" />
+        <item itemvalue="Python.animal" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.string-slicing-03" />
         <item itemvalue="Python.global-variables-tracking-efficiency" />
-        <item itemvalue="Python.fibonacci-with-a-dictionary" />
-        <item itemvalue="Python.01" />
       </list>
     </recent_temporary>
   </component>
