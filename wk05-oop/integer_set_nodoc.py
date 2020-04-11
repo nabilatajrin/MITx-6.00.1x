@@ -19,7 +19,6 @@ class intSet(object):
         return '{' + result[:-1] + '}'
 
 
-
 s = intSet()
 print(s)
 s.insert(3)

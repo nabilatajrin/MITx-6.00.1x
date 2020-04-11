@@ -45,9 +45,6 @@ class Rabbit(Animal):
         return parents_same or parents_opposite
 
 
-
-
-
 peter = Rabbit(2)
 peter.set_name('Peter')
 hopsy = Rabbit(3)
