@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="" />
+    <list default="true" id="510e2273-4a29-4dc7-b6a1-245a46312f1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +53,7 @@
       <recent name="$PROJECT_DIR$/wk02-simple-algorithms/files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exampleClasses">
+  <component name="RunManager" selected="Python.test (1)">
     <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="global-variables-tracking-efficiency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk03-structured-types/dictionaries/fibonacci/global-variables-tracking-efficiency.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string-slicing-03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.1x" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk01-basics/wk01-core-elements-of-programs/string-slicing/string-slicing-03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test-02" />
         <item itemvalue="Python.exampleClasses" />
         <item itemvalue="Python.animal" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.string-slicing-03" />
-        <item itemvalue="Python.global-variables-tracking-efficiency" />
       </list>
     </recent_temporary>
   </component>
@@ -194,38 +198,38 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585302509590" />
-    <state width="1276" height="141" key="GridCell.Tab.0.bottom" timestamp="1586622646395">
+    <state width="1276" height="144" key="GridCell.Tab.0.bottom" timestamp="1586940727294">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586622646395" />
-    <state width="1276" height="141" key="GridCell.Tab.0.center" timestamp="1586622646392">
+    <state width="1276" height="144" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586940727294" />
+    <state width="1276" height="144" key="GridCell.Tab.0.center" timestamp="1586940727293">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586622646392" />
-    <state width="1276" height="141" key="GridCell.Tab.0.left" timestamp="1586622646390">
+    <state width="1276" height="144" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586940727293" />
+    <state width="1276" height="144" key="GridCell.Tab.0.left" timestamp="1586940727292">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586622646390" />
-    <state width="1276" height="141" key="GridCell.Tab.0.right" timestamp="1586622646393">
+    <state width="1276" height="144" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586940727292" />
+    <state width="1276" height="144" key="GridCell.Tab.0.right" timestamp="1586940727293">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="141" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586622646393" />
-    <state width="1276" height="237" key="GridCell.Tab.1.bottom" timestamp="1585039214113">
+    <state width="1276" height="144" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586940727293" />
+    <state width="1276" height="140" key="GridCell.Tab.1.bottom" timestamp="1586939058255">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585039214113" />
-    <state width="1276" height="237" key="GridCell.Tab.1.center" timestamp="1585039214112">
+    <state width="1276" height="140" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586939058255" />
+    <state width="1276" height="140" key="GridCell.Tab.1.center" timestamp="1586939058254">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1585039214112" />
-    <state width="1276" height="237" key="GridCell.Tab.1.left" timestamp="1585039214112">
+    <state width="1276" height="140" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1586939058254" />
+    <state width="1276" height="140" key="GridCell.Tab.1.left" timestamp="1586939058254">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1585039214112" />
-    <state width="1276" height="237" key="GridCell.Tab.1.right" timestamp="1585039214112">
+    <state width="1276" height="140" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1586939058254" />
+    <state width="1276" height="140" key="GridCell.Tab.1.right" timestamp="1586939058254">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="237" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1585039214112" />
+    <state width="1276" height="140" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1586939058254" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584264359642">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -423,6 +427,21 @@
           <url>file://$PROJECT_DIR$/wk02-simple-algorithms/exercise/recursion/power-recur.py</url>
           <line>7</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
